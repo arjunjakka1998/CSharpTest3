@@ -42,6 +42,7 @@ namespace ConsoleTestAppCSharp
 
             Console.Write("Press any key to close the Calculator console app...");
             Console.Write("Ready.....!");
+            Console.Write("Ready.....!");
             Console.ReadKey();
         }
     }
